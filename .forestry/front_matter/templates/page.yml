@@ -12,6 +12,7 @@ fields:
   name: description
   label: description
 pages:
+- content/Products & Services/organ-inventory-list.md
 - content/Products & Services/rental-rates.md
 - content/Products & Services/service-rates.md
 - content/Products & Services/terms-conditions.md
