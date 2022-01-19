@@ -2,6 +2,8 @@
 description = ""
 featured_image = ""
 title = "Leslie Amps"
+[menu.main]
+weight = 4
 
 +++
 The standard Organ Transplant Leslie amp is our own updated version of the Leslie 147 / 122 amplifier, with modifications to improve reliability and reduce hum. These amps are built using original Leslie chassis that have been stripped to bare steel, then electroless nickel plated. The only original components that may be reused are the transformers and choke. All other parts are new.

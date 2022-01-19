@@ -2,6 +2,9 @@
 description = ""
 featured_image = ""
 title = "Service Rates"
+[menu.main]
+name = "Product & Services"
+weight = 2
 
 +++
 SERVICE RATES
