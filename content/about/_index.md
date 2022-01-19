@@ -1,12 +1,11 @@
 ---
 title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+description: ''
 featured_image: ''
 menu:
   main:
     weight: 5
+draft: true
 
 ---
 Organ Transplant, LLC is owned and operated by James & Patsy Skinner. The name of the company came out of the numerous organs we found ourselves moving (transplanting) for rentals, repairs, and sales. Although most transplants are local, typically within 50 - 100 miles, we routinely travel from Louisiana to the Canadian border and all points in between picking up and delivering organs.
