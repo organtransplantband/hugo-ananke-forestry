@@ -2,6 +2,9 @@
 description = ""
 featured_image = ""
 title = "Organ Inventory List"
+[menu.main]
+parent = "Product & Services"
+weight = 4
 
 +++
 
