@@ -18,6 +18,11 @@ sections:
   templates:
   - post
 - type: directory
+  path: content/catalog
+  label: Catalog
+  create: all
+  match: "**/*"
+- type: directory
   path: content/about
   label: About
   create: all
