@@ -2,6 +2,10 @@
 description = ""
 featured_image = ""
 title = "Rental Rates"
+[menu.main]
+name = "Rentals"
+parent = "Product & Services"
+weight = 2
 
 +++
 RENTAL RATES

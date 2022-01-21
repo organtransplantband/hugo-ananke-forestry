@@ -2,6 +2,9 @@
 description = ""
 featured_image = ""
 title = "Terms & Conditions"
+[menu.main]
+parent = "Product & Services"
+weight = 3
 
 +++
 TERMS & CONDITIONS
